@@ -40,3 +40,8 @@
     "budo": "^10.0.4"
   }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
