@@ -21,3 +21,10 @@ The Sign Language Translator is my project. Its purpose is to allow users to com
 npm i
 npm start
 ```
+### Show your support
+
+Give a ⭐ !
+
+<a href="https://buymeacoffee.com/pibarel" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+
